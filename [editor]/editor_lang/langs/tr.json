@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Türkçe",
+        "strings": {
+            "WELCOME_TITLE": "Map Editöre hoşgeldin!",
+            "WELCOME_MAP_EDITOR_TEXT": "MTA:SA Map Editörüne hoş geldiniz! Bu, editörü ilk kullanışınız ise devam et tuşuna tıklayarak eğitim moduna girebilirsiniz.\n Eğer eğitimi geçmek istiyorsanız, aşağıdaki \"Eğitimi geç\" butonuna tıklayın.",
+        
+            "WELCOME_DISCLAIMER": "Uyarı",
+            "WELCOME_DISCLAIMER_TEXT": "Bu editör hâlâ yapım aşamasındadır ve tamamen fonksiyonel değildir.\nEğer devam etmek istiyorsanız OK tuşuna basın ya da ESC'ye basıp bağlantıyı kes butonuna tıklayın.",
+
+            "PROCEED": "Devam et",
+            "SKIP_TUTORIAL": "Eğitimi geç",
+
+
+            "OK": "OK"
+        }
+    }
+]
