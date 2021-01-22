@@ -1,0 +1,18 @@
+[
+    {
+        "name": "English",
+        "strings": {
+            "WELCOME_TITLE": "Welcome to the Map Editor!",
+            "WELCOME_MAP_EDITOR_TEXT": "Welcome to the MTA:SA Map Editor.  This is your first time using the editor, so you are able to enter tutorial mode which will teach you the basics of using the editor.\nIf you want to skip the tutorial, press the 'Skip Tutorial' button.  Otherwise, press the 'Proceed' button.",
+        
+            "WELCOME_DISCLAIMER": "Disclaimer",
+            "WELCOME_DISCLAIMER_TEXT": "This map editor is still a work in progress and is not fully functional yet.\nIf you want to try it as a preview, press 'OK'. Otherwise, please press Escape and disconnect now.",
+
+            "PROCEED": "Proceed",
+            "SKIP_TUTORIAL": "Skip Tutorial",
+
+
+            "OK": "OK"
+        }
+    }
+]

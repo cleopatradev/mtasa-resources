@@ -1,6 +1,8 @@
 <meta>
 	<info author="erorr404,jbeta,Talidan" description="Official MTA map editor" />
 
+	<include resource="editor_lang" />
+
 	<!-- Include map manager, needed for the testing components, and handles the idea of "Gamemodes" and "Maps" -->
 	<include resource="mapmanager" />
 

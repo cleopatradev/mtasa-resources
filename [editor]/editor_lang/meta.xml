@@ -1,0 +1,10 @@
+<meta>
+	<info author="cleopatradev" description="Map editor Languages" />
+
+    <file src="langs/en_US.json" />
+    <file src="langs/langs.json" />
+
+    <script src="lang.lua" type="shared" />
+    <export function="getStringData" type="client" />
+    <export function="getStringData" type="server" />
+</meta>
